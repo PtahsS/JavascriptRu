@@ -2,7 +2,7 @@ export default [{
 "id": "54958505",
 "date": "2016-04-09",
 "title": "Commandotitle1",
-"text": "Commando f;lkdfj text lbhdfdfdfl fvldfhdflbn dbdh;blblb fldk d jgh  kjgfkj kbj ;",
+"text": "Commanghujrfbhdfdfdfl fvldfhdflbn dbdh;blblb fldk d jgh  kjgfkj kbj ;",
 "comments":[
 	{
 		"id": "werlkf1",
@@ -25,7 +25,7 @@ export default [{
 "id": "549585065",
 "date": "2016-04-09",
 "title": "Commandotitle2",
-"text": "Commando f;lkdfj text lbhdfdfdfl fvldfhdflbn dbdh;blblb fldk d jgh  kjgfkj kbj ;",
+"text": "Afgff;lkdfj text lbhdfdfdfl fvldfhdflbn dbdh;blblb fldk d jgh  kjgfkj kbj ;",
 "comments":[
 	{
 		"id": "werlkf1",
@@ -48,7 +48,7 @@ export default [{
 "id": "5495",
 "date": "2016-04-09",
 "title": "Commandotitle3",
-"text": "Commando f;lkdfj text lbhdfdfdfl fvldfhdflbn dbdh;blblb fldk d jgh  kjgfkj kbj ;",
+"text": "WfrtCommpoughs;",
 "comments":[
 	{
 		"id": "werlkf1",
